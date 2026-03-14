@@ -18,3 +18,5 @@ The links for all the file sources are listed below:
 [Disk Exercise (B) - Identity Theft](https://drive.google.com/file/d/1Fd1pX1r4waRkD6Z2O8J5cRZyeSNU5-SY/view)
 
 [Disk Exercise (C) - Kidnapper](https://dl.spbctf.com/Belkasoft_CTF_Kidnapper_Case.7z)
+
+[Cellphone Exercise - Digital Corpora](https://digitalcorpora.s3.amazonaws.com/corpora/mobile/android_12.zip)
