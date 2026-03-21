@@ -2,7 +2,7 @@ This CTF was created with a focus on **Digital Forensics**. CTF questions and an
 
 There are 2 versions that was prepared:
 - The **Guided** version is catered for people who are just starting out and new to Digital Forensic, and provides a more guided process of solving the exercises (only for the Memory Forensics portion for now, as the others are straightforward).
-- **Intermediate** level is catered for people who have some basic knowledge on Digital Forensic tools and usage, and provides a non-guided platform for the students to investigate freely.
+- The **Non-Guided** version is catered for people who have some basic knowledge on Digital Forensic tools and usage, and provides a non-guided platform for the students to investigate freely.
 
 Source files for the CTF are too large to upload to Github, so the links for all the files are listed below:
 
